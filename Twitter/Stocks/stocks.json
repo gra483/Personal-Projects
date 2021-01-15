@@ -1,0 +1,9 @@
+{
+   "stocks":{
+      "Apple":"AAPL",
+      "Google":"GOOGL",
+      "Tesla":"TSLA",
+      "Netflix":"NFLX",
+      "Amazon":"AMZN"
+   }
+}
